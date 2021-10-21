@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a software developer who moved to the Netherlands in October 2021. This is my personal blog.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mjbez@outlook.com](mailto:mjbez@outlook.com)
