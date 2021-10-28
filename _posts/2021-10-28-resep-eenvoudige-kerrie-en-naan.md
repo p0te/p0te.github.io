@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Resep: Eenvoudige briste kerrie
-visible: 0
+layout: default
+title: Eenvoudige briste kerrie
+hidden: true
 ---
 Eenvoudige kerrie
 # Kerrie
@@ -12,11 +12,14 @@ Eenvoudige kerrie
 	- 200gr yoghurt
 	- 500gr ontbeende hoenderdye
 	- 1 blokkie hoenderboulion
+
 ## Tandoori Hoender
+
 	- Meng ongeveer 'n kwart van die bottel Korma Paste met 200gr yoghurt.
 	- Smeer sous oor die hoenderdye en marineer oornag
 	- Braai die hoender tot deurgaar (moenie te bang wees vir te droog nie)
 	- sny in 2cm blokkies en sit opsy
+
 ## Kerriesous
 	- Braai die uie en die res van die Korma Paste tot deursigtig en geurig
 	- Braai die sopgroente vir ongeveer 2 minute saam met die uie
