@@ -4,7 +4,9 @@ title: Waterloopleinmark
 ---
 
 
-[](images/2021-10-28-waterloopleinmark/Waterloopleinmark-1.JPG)
+![](images/2021-10-28-waterloopleinmark/Waterloopleinmark-1.JPG){:class="img-responsive"}
+
+
 Omdat ek redelik baie tyd en redelik min geld het, het ek vir my eerste
 dag in Amsterdam besluit om die openbare vervoer uit te figure en net 'n
 bietjie rond te dwaal. My enigste doelwit was om 'n gevoel te kry vir
@@ -22,6 +24,6 @@ was, en bietjie meer navorsing gedoen het oor die besienswaardighede.
 Maar al wat ek gesien het is duur, lelike kroeë en coffeeshops wat die
 dagga-is-soortvan-wettig dam onder die eend uitruk.
 
-[](images/2021-10-28-waterloopleinmark/Waterloopleinmark-2.JPG)
+![](images/2021-10-28-waterloopleinmark/Waterloopleinmark-2.JPG){:class="img-responsive"}
 
 
