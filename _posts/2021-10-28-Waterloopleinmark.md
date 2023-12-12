@@ -4,7 +4,7 @@ title: Waterloopleinmark
 ---
 
 
-![](images/2021-10-28-waterloopleinmark/Waterloopleinmark-1.JPG){:class="img-responsive"}
+![wlp1](images/2021-10-28-waterloopleinmark/Waterloopleinmark-1.JPG){:class="img-responsive"}
 
 
 Omdat ek redelik baie tyd en redelik min geld het, het ek vir my eerste
@@ -24,6 +24,6 @@ was, en bietjie meer navorsing gedoen het oor die besienswaardighede.
 Maar al wat ek gesien het is duur, lelike kroeë en coffeeshops wat die
 dagga-is-soortvan-wettig dam onder die eend uitruk.
 
-![](images/2021-10-28-waterloopleinmark/Waterloopleinmark-2.JPG){:class="img-responsive"}
+![wlp2](images/2021-10-28-waterloopleinmark/Waterloopleinmark-2.JPG){:class="img-responsive"}
 
 
