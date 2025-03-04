@@ -31,7 +31,7 @@ interessante foto's te maak.
 Ons wou aanvanklik fietse huur by Stockholm Ebikes, maar hulle het die
 diens gestop om een of ander rede, so toe gebruik ons die elektriese
 Scooters van Tier. Dit is pret, goedkoop genoeg en baie gerieflik.
-Hollanders is heilig oor fietse en fietspaaie, so ek ken dit glad nie.
+Hollanders is te heilig oor fietse en fietspaaie vir die scooters, so ek ken dit glad nie.
 Kan dit definitief aanbeveel.
 
 ## skansen opelugmuseum 
@@ -71,7 +71,7 @@ effens ander deel van die stad as die toerisme-sentrum te besoek.
 ## die elektriese Scooters neem wraak 
 
 
-Omdat my wierd fotografie-museum vêr van alles af was, en omdat dat
+Omdat my weird fotografie-museum vêr van alles af was, en omdat dit
 begin het om laat te word, het ons belsuit om vir oulaas met die
 elektriese scooters te ry om betyds te wees vir Gerda se trein. Die
 scooter-huur en google maps gebeur op my foon, omdat ek in Swede sein
