@@ -1,8 +1,7 @@
 ---
 layout: post
-tilte: Ín die stad
+tilte: Valse vriend\: Opgewonde
 ---
-# Valse vriend: Opgewonde 
 In Nederlands kom 'n mens van tyd tot tyd op 'n woord af wat lyk soos 'n
 Afrikaanse woord, maar 'n betekenis het wat soms tot vulgêre of komiese
 gevolge kan lei. Ons almal weet dat meeste van die heel lelikste woorde
